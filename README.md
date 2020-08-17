@@ -1,6 +1,7 @@
 # Introduction to sktime: A Unified Framework for Machine Learning with Time Series
 
 GitHub: https://github.com/alan-turing-institute/sktime
+
 Meetup: https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/events/272511874/
 
 ## Abstract
